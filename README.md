@@ -2,6 +2,8 @@
 
 A 2D platformer prototype for testing game development mechanics in **Unity 2D** using **C#**.
 
+🎮 **Play the game demo:** [Plataformas2D Demo](https://glistening-kashata-9cbb92.netlify.app/)
+
 ## Key Features
 
 - Polished enemy AI with state machines.  
@@ -17,5 +19,4 @@ A 2D platformer prototype for testing game development mechanics in **Unity 2D**
 - **W, A, S, D** - Movement  
 - **Space** - Jump  
 - **Left Click** - Attack  
-- **E** - Interact  
-
+- **E** - Interact
